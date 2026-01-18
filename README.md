@@ -10,7 +10,6 @@ This website displays a collection of meme-style images paired with short titles
 
 - Clean and minimal design
 - Displays a series of memes or quote cards
-- Easy to update by adding new images and captions
 - Hosted via GitHub Pages
 
 ## 🧠 Technologies Used
